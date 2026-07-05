@@ -27,10 +27,7 @@ no digging through menus.
 
 </div>
 
-<!-- SCREENSHOT: assets/hero.png — a wide shot of the editor with a project open.
-     Uncomment when added:
 ![VLStudio editor](assets/hero.png)
--->
 
 ---
 
