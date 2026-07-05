@@ -9,11 +9,12 @@
 
 # ⚡ VLStudio
 
-### A professional video editor for Windows — free.
+### A professional video editor for Windows, with an AI assistant that edits alongside you.
 
 Multi-track editing, real color grading, keying, motion tracking, and broadcast-grade
-delivery formats — in a fast desktop app built on FFmpeg.
-**No watermark. No export limits. No subscription to edit.**
+delivery formats, in a fast desktop app built on FFmpeg. Describe what you want changed
+and let the built-in AI assistant find the clip, apply the edit, or tune the settings,
+no digging through menus.
 
 [![Latest release](https://img.shields.io/github/v/release/vlad044-z/vlstudio-releases?style=flat-square&label=latest&color=39FF6A)](https://github.com/vlad044-z/vlstudio-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/vlad044-z/vlstudio-releases/total?style=flat-square&color=39FF6A)](https://github.com/vlad044-z/vlstudio-releases/releases)
@@ -62,6 +63,10 @@ button to apply it. You never re-download the installer by hand.
 
 ## What's inside
 
+**🤖 AI assistant** — chat with the editor in plain language ("cut the dead air in clip 3",
+"add a Cinematic grade to the intro") and watch it plan and apply the edit on your timeline,
+with a preview/confirm step before anything commits.
+
 **✂️ Editing** — unlimited multi-track timeline (drag, trim, ripple delete, nesting, markers),
 clip speed 0.25×–4× with pitch compensation, per-property keyframing with a curve editor, full undo/redo.
 
@@ -93,12 +98,14 @@ FCPXML / AAF-OMF handoff *(PRO)*; and a batch render queue.
 
 ---
 
-## Free editor + optional VLS PRO
+## Built for a smooth workflow
 
-The editor is **free forever** — it runs entirely on your machine, so there's nothing to
-charge for. **VLS PRO** (€10/month, 7-day free trial) unlocks the cloud- and compute-heavy
-extras: the node compositor, 3D camera solve, Warp Stabilizer, pro export/delivery formats,
-and unlimited cloud review collaboration. Start a trial at **[vlstudio.live](https://www.vlstudio.live)**.
+Everything runs natively on your machine, so the timeline, previews, and renders stay fast
+because there's no browser tab or web-app overhead in the way, and the AI assistant sits
+right next to your timeline instead of a separate tool you have to tab out to.
+**VLS PRO** (€10/month, 7-day free trial) adds the cloud- and compute-heavy extras: the node
+compositor, 3D camera solve, Warp Stabilizer, pro export/delivery formats, and unlimited
+cloud review collaboration. Start a trial at **[vlstudio.live](https://www.vlstudio.live)**.
 
 ---
 
